@@ -1,0 +1,5 @@
+print("helloworld")
+print("world")
+print("new lab")
+print("ggod")
+print("waseem")
